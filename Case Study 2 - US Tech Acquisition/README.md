@@ -1,5 +1,3 @@
-Yes — this is the **Case Study 2 README text**. Copy everything inside the box and paste it into the GitHub `README.md` you are creating inside `Case Study 2 - US Tech Acquisition`.
-
 # US Technology Acquisition — Due Diligence Risk Analysis
 
 ## Case Study Overview
